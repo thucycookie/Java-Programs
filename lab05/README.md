@@ -1,5 +1,5 @@
 Instruction for compilation:
-  javac Card.java
+  javac Card.java\n
   javac CardException.java
   javac HolderException.java
   javac Deck.java
