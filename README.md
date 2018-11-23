@@ -1,4 +1,4 @@
 # Programming-Abstraction-and-Design
-Java programs created in an introductory computer science course
+Java programs 
 
 Lab05 demonstrates the ultilization of customary classes, subclasses and instance methods. 
